@@ -17,3 +17,4 @@ My bio goes here
   - Deployed Microsoft Sentinel and created rule to look for successful logins on port 3389
   - Logged into VM via RDP
  
+![SIEM Rule](MSAzureSIEMRule.png) ![SIEM Incident](MSAzureSIEMIncidents.png)
